@@ -1,0 +1,2 @@
+# CodeAlpha_CyberSecurity_Basic-Network-sNIFFER-sCAPY-
+Real-time packet sniffer that captures IP traffic, displays source/destination,protocol,and payload snippets.  Tools: Python, Scapy, Wireshark(for pcap analysis)  Key Files: -'network_sniffer.py' - Main script -'capture.pcap' - Sample captures packets -'/Videos/Task1_Explanation.mp4'- Demo Video (1 - 2 min) -Screenshots in '/Screenshots/Task1/'
